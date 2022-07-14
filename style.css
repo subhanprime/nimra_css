@@ -1,0 +1,64 @@
+p{
+    color:sienna
+}
+a{
+    color: darkmagenta; font-size:30px ;
+}
+span{
+    color:blueviolet;
+    font-size:40px;
+}
+
+ul{
+    list-style-type:square;
+}
+.special{
+    color:yellow;
+    font-size:30px;
+}
+.hard{
+    color: darkolivegreen;
+    font-size:30px;
+}
+.cool{
+    color: crimson;
+    font-size:30px;
+}
+em{
+    color: tomato;
+    font-size:70px ;
+}
+h2{
+    color: chartreuse;
+    font-size:30px; 
+}
+p2{
+    color:red;
+font-size:30px;
+}
+
+.ragon{
+     background-image: url("img.jpg");
+    height:200px;
+    width:200px;
+}
+h3{
+    font-size:90px;
+    font-family:diplomata sc, Helvetica, sans-serif;
+    font-style:italic;
+    font-weight: 100;
+}
+h1{
+    font-family:rubik moonrocks, Courier, monospace;
+}
+p4{
+    color: darkgreen;
+    line-height:4;
+    font-weight: 400;
+    text-indent:00px;
+
+}
+ul#summer-drinks li.fav{
+    color:red;
+    font-weight:bold;
+}
